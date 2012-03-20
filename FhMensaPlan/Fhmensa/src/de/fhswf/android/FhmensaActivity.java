@@ -17,6 +17,11 @@ public class FhmensaActivity extends TabActivity {
         TabHost.TabSpec spec;  // Resusable TabSpec for each tab
         Intent intent;  // Reusable Intent for each tab
 
+        /**
+         * 
+         * Lukes Aenderungen
+         * 
+         */
        
 
         // Do the same for the other tabs
